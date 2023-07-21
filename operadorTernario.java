@@ -24,7 +24,8 @@ public class Main {
         String valor;
         valor = (dado.equals(dado2) ?"sim, mesmo nome" :"não, nome diferente");
         /* o método .equals retorna true ou false caso o CONTEUDO de
-        um objeto e outro objeto(classes tbm) seja igual */
+        um objeto e outro objeto(classes + wrapper class também) seja igual */
+        
         System.out.println(valor);
 
         /* maior = n1 > n2 ? n1 : n2
