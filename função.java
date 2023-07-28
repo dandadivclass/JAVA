@@ -6,5 +6,7 @@ public class FuncoesTiagoAguiarYoutubeAula {
 
     static void soma(int x, int y) {  //função que espera duas variaveis do tipo inteiro como parâmetro 
         System.out.println(x + y);        // os parênteses recebem o dado que a função irá tratar
+        System.out.println(x / y);
+        System.out.println(x * y);
     }
 }
