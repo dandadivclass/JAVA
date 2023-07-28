@@ -1,6 +1,6 @@
 public class FuncoesTiagoAguiarYoutubeAula {
     public static void main(String[] args) {
-        soma(55, 63);
+        soma(55, 63);    // argumentos da função
         soma(14, 14);  // a função pode ser usada diversas vezes em diferentes lugares no código
     }
 
